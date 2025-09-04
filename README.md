@@ -23,7 +23,8 @@ PROJECT/
 - **Node.js** + **Express** – Backend framework  
 - **TypeScript** – Strongly typed JavaScript  
 - **MongoDB** + **Mongoose** – Database and ODM  
-- **Cors & Dotenv** – Middleware and environment management  
+- **Cors & Dotenv** – Middleware and environment management
+-  **React** (planned) – Frontend framework for building UI  
 
 ---
 
