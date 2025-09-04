@@ -5,6 +5,18 @@ Right now, we’re setting up the **server side** with Node.js, TypeScript, and 
 The project is still in its early stages — no system name yet!
 
 ---
+##PROJECT DIRECTORIES
+
+PROJECT/
+├── server/          # Backend server (Node.js + TypeScript)
+│   ├── src/         # Source files
+│   │   └── index.ts
+│   ├── package.json
+│   ├── tsconfig.json
+│   └── .gitignore
+└── client/          # (Reserved for frontend - not started yet)
+
+
 
 ## ⚡ Tech Stack
 
